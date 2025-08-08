@@ -18,7 +18,7 @@
 }
 
 .base {
-  background-image: url("../images/base.PNG");
+  background-image: url("/images/base.PNG");
   background-size: 100%;
   background-repeat: no-repeat;
   width: 250px;
@@ -60,31 +60,31 @@
 }
 
 #crew0 {
-  background-image: url("../images/0.PNG");
+  background-image: url("/images/0.PNG");
   left: 280px;
   top: 205px;
 }
 
 #crew1 {
-  background-image: url("../images/1.PNG");
+  background-image: url("/images/1.PNG");
   left: 680px;
   top: 205px;
 }
 
 #crew2 {
-  background-image: url("../images/2.PNG");
+  background-image: url("/images/2.PNG");
   left: 1080px;
   top: 205px;
 }
 
 #crew3 {
-  background-image: url("../images/3.PNG");
+  background-image: url("/images/3.PNG");
   left: 480px;
   top: 485px;
 }
 
 #crew4 {
-  background-image: url("../images/4.PNG");
+  background-image: url("/images/4.PNG");
   left: 880px;
   top: 485px;
 }

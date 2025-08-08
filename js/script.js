@@ -29,11 +29,11 @@ $(document).ready(function () {
 
     $("#impostor1").css(
       "background-image",
-      "url('images/" + arrImpostor[0] + ".png')"
+      "url('/images/" + arrImpostor[0] + ".png')"
     );
     $("#impostor2").css(
       "background-image",
-      "url('images/" + arrImpostor[1] + ".png')"
+      "url('/images/" + arrImpostor[1] + ".png')"
     );
     tmrBrief = setInterval(startGame, 3000);
   });
